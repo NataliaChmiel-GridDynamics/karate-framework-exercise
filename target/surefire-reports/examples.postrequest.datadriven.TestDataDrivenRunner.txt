@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: examples.postrequest.datadriven.TestDataDrivenRunner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.2 s - in examples.postrequest.datadriven.TestDataDrivenRunner

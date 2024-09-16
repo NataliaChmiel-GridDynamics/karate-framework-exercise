@@ -1,1 +1,13 @@
-/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/users/TestGetRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/getrequest/TestGetRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/postrequest/datadriven/TestDataDrivenRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/ParallelRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/patchrequest/TestPatchRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/getrequest/TestVariableRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/ParallelBuilder.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/postrequest/TestPostRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/postrequest/fileupload/TestFileUploadRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/deleterequest/TestDeleteRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/postrequest/TestJavaScriptRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/getrequest/TestValidationWithFileRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/getrequest/queryparameters/TestQueryParameterRunner.java
+/Users/nchmiel/Documents/KarateJavaExe/src/test/java/examples/putrequest/TestPutRunner.java

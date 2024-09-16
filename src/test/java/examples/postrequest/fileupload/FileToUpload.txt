@@ -1,0 +1,17 @@
+Feature: To use JSON path expression
+
+  Background: Set up base path
+    Given url 'http://localhost:9191'
+
+  Scenario: To get the value of property using JSON path expression
+    Given path '/normal/webapi/all'
+    When method GET
+    Then status 200
+
+    * def jobID = 1
+    * def jobTitle = karate.jsonPath(response,"$[?(@.jobId == " + jobID + ")].jobTitle")
+    * def jobDescription = karate.jsonPath(response,"$[?(@.jobId == 1)].jobDescription")
+    * def experience = karate.jsonPath(response,"$[?(@.jobId == 1)].experience")
+    And print "Job Title ==> ", jobTitle
+    And print "Job Description ==> ", jobDescription
+    And print "Experience ==> ", experience
