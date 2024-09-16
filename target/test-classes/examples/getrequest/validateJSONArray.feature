@@ -30,5 +30,4 @@ To validate the get end point response.
     And match response.[0].jobId == '#number'
 #    And match response.[0].jobId == '#? _ == 1'
     And match response.[0].jobTitle == '#string? _.length >= 1'
-#    And match response.[0].experience == '#[3] #string ? _.length == 4'
 
